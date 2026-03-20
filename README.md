@@ -2,7 +2,7 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f0f0f,50:1c1c1c,100:2f2f2f&text=Mx%20%7C%20Gxstein&fontColor=f5f5f5&fontSize=42&animation=twinkling&fontAlignY=38&desc=Software%20Engineering%20Student%20%40%20UnB&descAlignY=58&descSize=18" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=E5E7EB&center=true&vCenter=true&width=900&lines=Frontend+em+constru%C3%A7%C3%A3o;Projetos+com+React%2C+JavaScript+e+Python;Interfaces+modernas%2C+responsivas+e+com+identidade+visual;Aprendendo%2C+criando+e+evoluindo+um+projeto+por+vez" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=E5E7EB&center=true&vCenter=true&width=900&lines=Frontend+in+progress;Projects+with+React%2C+JavaScript+and+Python;Modern%2C+responsive+interfaces+with+strong+visual+identity;Learning%2C+building+and+improving+one+project+at+a+time" alt="Typing SVG" />
 
 </div>
 
@@ -11,10 +11,10 @@
 ## ◼ about.me
 
 ```txt
-> foco atual: desenvolvimento web
-> base principal: JavaScript, React, HTML, CSS e Python
-> explorando: automação, qualidade de software e projetos para portfólio
-> objetivo: transformar estudo em projeto real e projeto real em oportunidade
+> current focus: web development
+> main stack: JavaScript, React, HTML, CSS and Python
+> exploring: automation, software quality and portfolio projects
+> goal: turn study into real projects and real projects into opportunities
 ```
 
 <br>
@@ -27,7 +27,7 @@
 <img src="https://img.shields.io/badge/React-111111?style=for-the-badge&logo=react&logoColor=white" />
 <img src="https://img.shields.io/badge/Python-111111?style=for-the-badge&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/HTML5-111111?style=for-the-badge&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS3-111111?style=for-the-badge&logo=css&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-111111?style=for-the-badge&logo=css3&logoColor=white" />
 <img src="https://img.shields.io/badge/Node.js-111111?style=for-the-badge&logo=nodedotjs&logoColor=white" />
 <img src="https://img.shields.io/badge/Git-111111?style=for-the-badge&logo=git&logoColor=white" />
 <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white" />
@@ -46,21 +46,21 @@
     <td width="33%" align="center">
       <img src="https://img.shields.io/badge/React%20Weather%20App-1a1a1a?style=for-the-badge" /><br><br>
       <strong>Climax</strong><br>
-      Dashboard de clima com React, consumo de API, busca por cidade, previsão do tempo e histórico local.<br><br>
-      <a href="https://github.com/Gxstein/Climax">repositório</a>
+      Weather dashboard built with React, API integration, city search, forecast display and local history.<br><br>
+      <a href="https://github.com/Gxstein/Climax">repository</a>
     </td>
     <td width="33%" align="center">
       <img src="https://img.shields.io/badge/CEP%20Finder-1a1a1a?style=for-the-badge" /><br><br>
       <strong>Buscador de CEP</strong><br>
-      Aplicação web com HTML, CSS e JavaScript puro integrada à API ViaCEP, com validação e tratamento de erros.<br><br>
-      <a href="https://github.com/Gxstein/Buscador-de-CEP">repositório</a> • 
+      Web application built with HTML, CSS and vanilla JavaScript, integrated with the ViaCEP API, featuring input validation and error handling.<br><br>
+      <a href="https://github.com/Gxstein/Buscador-de-CEP">repository</a> • 
       <a href="https://buscador-de-cep-app.vercel.app/">deploy</a>
     </td>
     <td width="33%" align="center">
       <img src="https://img.shields.io/badge/Python%20QA%20Bot-1a1a1a?style=for-the-badge" /><br><br>
       <strong>RepoGuard</strong><br>
-      Bot de QA para repositórios GitHub com análise de estrutura, documentação, testes, stack e automação.<br><br>
-      <a href="https://github.com/Gxstein/RepoGuard">repositório</a>
+      QA bot for GitHub repositories with structure analysis, documentation checks, test validation, stack inspection and automation support.<br><br>
+      <a href="https://github.com/Gxstein/RepoGuard">repository</a>
     </td>
   </tr>
 </table>
@@ -89,10 +89,10 @@
 </div>
 
 <!--
-Para deixar este README ainda mais animado, você pode gerar a snake animation com GitHub Actions
-usando o projeto Platane/snk e depois exibir o SVG aqui.
+To make this README even more animated, you can generate the snake animation with GitHub Actions
+using the Platane/snk project and then display the SVG here.
 
-Exemplo:
+Example:
 <p align="center">
   <img src="https://raw.githubusercontent.com/Gxstein/Gxstein/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
 </p>
