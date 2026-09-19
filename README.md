@@ -1,127 +1,177 @@
+<!-- ===================== HEADER ===================== -->
 <div align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f0f0f,50:1c1c1c,100:2f2f2f&text=Mx%20%7C%20Gxstein&fontColor=f5f5f5&fontSize=42&animation=twinkling&fontAlignY=38&desc=Software%20Engineering%20Student%20%40%20UnB&descAlignY=58&descSize=18" />
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=E5E7EB&center=true&vCenter=true&width=900&lines=Frontend+in+progress;Projects+with+React%2C+JavaScript+and+Python;Modern%2C+responsive+interfaces+with+strong+visual+identity;Learning%2C+building+and+improving+one+project+at+a+time" alt="Typing SVG" />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:C1121F,50:E63946,100:FF8C00&height=200&section=header&text=Marcio%20Souza&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Backend%20Developer%20%7C%20Java%20%26%20Spring%20Boot&descAlignY=56&descSize=18" width="100%" alt="header"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FF6B00&center=true&vCenter=true&width=650&lines=Backend+Developer;Java+21+%2B+Spring+Boot+3;Software+Engineering+student+at+UCB;APIs%2C+databases+and+clean+architecture" alt="typing"/>
+
+<br/>
+
+<a href="https://linkedin.com/in/marccio-souza">
+  <img src="https://img.shields.io/badge/LinkedIn-E63946?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="https://github.com/Gxstein">
+  <img src="https://img.shields.io/badge/GitHub-FF6B00?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+<img src="https://komarev.com/ghpvc/?username=Gxstein&style=for-the-badge&color=FF8C00&label=PROFILE+VIEWS" alt="views"/>
 
 </div>
+
+<br/>
+
+<!-- ===================== ABOUT ===================== -->
+
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="28"/> About me
+
+```java
+package dev.marcio;
+
+public class About {
+
+    public static void main(String[] args) {
+        System.out.println("Backend developer — Java & Spring Boot.");
+        System.out.println("Building REST APIs, modeling databases,");
+        System.out.println("and keeping the code simple enough to read.");
+    }
+}
+```
+
+**Backend is the whole focus.** I work on the server side: REST APIs, relational data modeling,
+object-oriented design and the parts of a system nobody sees but everybody depends on.
+My goal is to get good enough at Java and Spring to build things that hold up in production.
+
+- ☕ **Main stack:** Java 21 + Spring Boot 3
+- 🧠 **Learning right now:** Spring Data JPA, Hibernate, PostgreSQL and automated testing with JUnit
+- 🎯 **Where I'm heading:** backend engineer at a large bank or a big tech company
+- 📍 **Based in:** Brasília, Federal District — Brazil
+
+<br/>
 
 ---
 
-## ◼ about.me
+<!-- ===================== STACK ===================== -->
 
-```txt
-> current focus: web development
-> main stack: JavaScript, React, HTML, CSS and Python
-> exploring: automation, software quality and portfolio projects
-> goal: turn study into real projects and real projects into opportunities
-```
-
-<br>
-
-## ◻ tech.stack
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28"/> Tech Stack
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/JavaScript-111111?style=for-the-badge&logo=javascript&logoColor=white" />
-<img src="https://img.shields.io/badge/React-111111?style=for-the-badge&logo=react&logoColor=white" />
-<img src="https://img.shields.io/badge/Python-111111?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/HTML5-111111?style=for-the-badge&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS3-111111?style=for-the-badge&logo=css3&logoColor=white" />
-<img src="https://img.shields.io/badge/Node.js-111111?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-<img src="https://img.shields.io/badge/Git-111111?style=for-the-badge&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white" />
-<img src="https://img.shields.io/badge/Vercel-111111?style=for-the-badge&logo=vercel&logoColor=white" />
+#### Core
+<img src="https://img.shields.io/badge/Java-C1121F?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/Spring_Boot-E63946?style=for-the-badge&logo=springboot&logoColor=white"/>
+<img src="https://img.shields.io/badge/Spring_Data_JPA-FF6B00?style=for-the-badge&logo=spring&logoColor=white"/>
+<img src="https://img.shields.io/badge/Hibernate-FF8C00?style=for-the-badge&logo=hibernate&logoColor=white"/>
+
+#### Data
+<img src="https://img.shields.io/badge/PostgreSQL-C1121F?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL-E63946?style=for-the-badge&logo=databricks&logoColor=white"/>
+<img src="https://img.shields.io/badge/H2-FF6B00?style=for-the-badge&logo=h2database&logoColor=white"/>
+
+#### Build, Test & Tooling
+<img src="https://img.shields.io/badge/Maven-C1121F?style=for-the-badge&logo=apachemaven&logoColor=white"/>
+<img src="https://img.shields.io/badge/JUnit_5-E63946?style=for-the-badge&logo=junit5&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-FF6B00?style=for-the-badge&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-FF8C00?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/IntelliJ_IDEA-C1121F?style=for-the-badge&logo=intellijidea&logoColor=white"/>
+
+#### Also comfortable with
+<img src="https://img.shields.io/badge/Python-FF8C00?style=for-the-badge&logo=python&logoColor=white"/>
 
 </div>
 
-<br>
+<br/>
 
-## ◼ featured.projects
+---
+
+<!-- ===================== PROJECTS ===================== -->
+
+## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="28"/> Projects
 
 <div align="center">
 
+<a href="https://github.com/Gxstein/expense-tracker-java">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Gxstein&repo=expense-tracker-java&hide_border=true&bg_color=0D1117&title_color=FF6B00&icon_color=E63946&text_color=c9d1d9" alt="expense-tracker-java"/>
+</a>
+<a href="https://github.com/Gxstein/exercises-java">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Gxstein&repo=exercises-java&hide_border=true&bg_color=0D1117&title_color=FF6B00&icon_color=E63946&text_color=c9d1d9" alt="exercises-java"/>
+</a>
+
+</div>
+
+| Project | What it is | Stack |
+|---|---|---|
+| **[expense-tracker-java](https://github.com/Gxstein/expense-tracker-java)** | Personal expense tracker, growing from a console application into a Spring Boot REST API | `Java` `Spring Boot` `JPA` |
+| **[exercises-java](https://github.com/Gxstein/exercises-java)** | Object-oriented programming exercises — inheritance, polymorphism, encapsulation and collections | `Java` `OOP` |
+
+> ☕ **Next up:** a task management REST API with Java 21 + Spring Boot 3 + PostgreSQL, with layered architecture, DTOs, validation and integration tests.
+
+<br/>
+
+---
+
+<!-- ===================== EDUCATION ===================== -->
+
+## <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="28"/> Education
+
 <table>
   <tr>
-    <td width="33%" align="center">
-      <img src="https://img.shields.io/badge/React%20Weather%20App-1a1a1a?style=for-the-badge" /><br><br>
-      <strong>Climax</strong><br>
-      Weather dashboard built with React, API integration, city search, forecast display and local history.<br><br>
-      <a href="https://github.com/Gxstein/Climax">repository</a>
+    <td width="50%" valign="top">
+      <h3>🎓 Software Engineering</h3>
+      <p><b>Universidade Católica de Brasília — UCB</b><br/>
+      <i>Bachelor's degree · In progress</i></p>
+      <p>Software architecture, object-oriented programming, data structures and
+      algorithms, database systems, software engineering processes and
+      distributed systems.</p>
     </td>
-    <td width="33%" align="center">
-      <img src="https://img.shields.io/badge/CEP%20Finder-1a1a1a?style=for-the-badge" /><br><br>
-      <strong>Buscador de CEP</strong><br>
-      Web application built with HTML, CSS and vanilla JavaScript, integrated with the ViaCEP API, featuring input validation and error handling.<br><br>
-      <a href="https://github.com/Gxstein/Buscador-de-CEP">repository</a> • 
-      <a href="https://buscador-de-cep-app.vercel.app/">deploy</a>
-    </td>
-    <td width="33%" align="center">
-      <img src="https://img.shields.io/badge/Python%20QA%20Bot-1a1a1a?style=for-the-badge" /><br><br>
-      <strong>RepoGuard</strong><br>
-      QA bot for GitHub repositories with structure analysis, documentation checks, test validation, stack inspection and automation support.<br><br>
-      <a href="https://github.com/Gxstein/RepoGuard">repository</a>
+    <td width="50%" valign="top">
+      <h3>🎓 Systems Analysis and Development</h3>
+      <p><b>Technologist degree</b><br/>
+      <i>Completed</i></p>
+      <p>Programming fundamentals, relational modeling and SQL, software
+      testing, version control and the full application development
+      lifecycle.</p>
     </td>
   </tr>
 </table>
 
-</div>
-
-<br>
-
-## ◻ github.metrics
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gxstein&show_icons=true&hide_border=true&bg_color=00000000&title_color=E5E7EB&text_color=9CA3AF&icon_color=D1D5DB&rank_icon=github" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gxstein&layout=compact&hide_border=true&bg_color=00000000&title_color=E5E7EB&text_color=9CA3AF" />
-</div>
-
-<div align="center">
-  <img width="76%" src="https://github-readme-streak-stats.herokuapp.com?user=Gxstein&hide_border=true&background=00000000&ring=D1D5DB&fire=D1D5DB&currStreakLabel=E5E7EB&sideNums=9CA3AF&currStreakNum=E5E7EB&dates=6B7280&sideLabels=9CA3AF" />
-</div>
-
-<br>
-
-## ◼ contribution.flow
-
-<div align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Gxstein&bg_color=00000000&color=E5E7EB&line=9CA3AF&point=D1D5DB&area=true&hide_border=true" />
-</div>
-
-<!--
-To make this README even more animated, you can generate the snake animation with GitHub Actions
-using the Platane/snk project and then display the SVG here.
-
-Example:
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Gxstein/Gxstein/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
-</p>
--->
-
-<br>
-
-## ◻ contact.link
-
-<div align="center">
-
-<a href="https://github.com/Gxstein">
-  <img src="https://img.shields.io/badge/GitHub-0f0f0f?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-<a href="SEU_LINKEDIN_AQUI">
-  <img src="https://img.shields.io/badge/LinkedIn-1a1a1a?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="SEU_PORTFOLIO_AQUI">
-  <img src="https://img.shields.io/badge/Portfolio-2a2a2a?style=for-the-badge&logo=vercel&logoColor=white" />
-</a>
-
-</div>
+<br/>
 
 ---
 
+<!-- ===================== STATS ===================== -->
+
+## <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="28"/> GitHub Stats
+
 <div align="center">
 
-```txt
-black / gray / geometric / clean / motion-inspired
-```
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Gxstein&show_icons=true&hide_border=true&bg_color=0D1117&title_color=FF6B00&icon_color=E63946&text_color=c9d1d9" alt="stats"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gxstein&layout=compact&hide_border=true&langs_count=6&bg_color=0D1117&title_color=FF6B00&text_color=c9d1d9" alt="top langs"/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0f0f0f,50:1c1c1c,100:2f2f2f" />
+<br/><br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Gxstein&hide_border=true&background=0D1117&stroke=FF6B00&ring=FF6B00&fire=E63946&currStreakLabel=FF8C00&sideLabels=c9d1d9&dates=8b949e" alt="streak"/>
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Gxstein&bg_color=0D1117&color=FF8C00&line=E63946&point=FFFFFF&area=true&hide_border=true" width="100%" alt="activity graph"/>
+
+</div>
+
+<br/>
+
+---
+
+<!-- ===================== FOOTER ===================== -->
+
+<div align="center">
+
+### Let's talk
+
+<a href="https://linkedin.com/in/marccio-souza">
+  <img src="https://img.shields.io/badge/Connect_on_LinkedIn-E63946?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF8C00,50:E63946,100:C1121F&height=150&section=footer&text=Thanks%20for%20stopping%20by!&fontSize=28&fontColor=ffffff&animation=twinkling&fontAlignY=70" width="100%" alt="footer"/>
 
 </div>
