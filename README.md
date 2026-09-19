@@ -134,11 +134,6 @@ My goal is to get good enough at Java and Spring to build things that hold up in
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gxstein&hide_border=true&background=0D1117&stroke=FF6B00&ring=FF6B00&fire=E63946&currStreakLabel=FF8C00&sideLabels=c9d1d9&dates=8b949e" alt="streak"/>
 
-<br/><br/>
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Gxstein&show_icons=true&hide_border=true&bg_color=0D1117&title_color=FF6B00&icon_color=E63946&text_color=c9d1d9" alt="stats"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gxstein&layout=compact&hide_border=true&langs_count=6&bg_color=0D1117&title_color=FF6B00&text_color=c9d1d9" alt="top langs"/>
-
 </div>
 
 <br/>
