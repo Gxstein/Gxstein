@@ -29,7 +29,6 @@ sees but everybody depends on. I care about code that stays readable — simple 
 
 - **Main stack:** Java 21 + Spring Boot 3
 - **Learning right now:** Spring Data JPA, Hibernate, PostgreSQL and testing with JUnit
-- **Where I'm heading:** backend engineer at a large bank or a big tech company
 - **Based in:** Brasília, Federal District — Brazil
 
 <br/>
