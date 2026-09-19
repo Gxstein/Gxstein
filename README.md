@@ -1,7 +1,7 @@
 <!-- ===================== HEADER ===================== -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:C1121F,50:E63946,100:FF8C00&height=200&section=header&text=Marcio%20Souza&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Backend%20Developer%20%7C%20Java%20%26%20Spring%20Boot&descAlignY=56&descSize=18" width="100%" alt="header"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:C1121F,50:E63946,100:FF8C00&height=200&section=header&text=Marcio%20Souza&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Java%20and%20Spring%20Boot%20Developer&descAlignY=56&descSize=18" width="100%" alt="header"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FF6B00&center=true&vCenter=true&width=650&lines=Backend+Developer;Java+21+%2B+Spring+Boot+3;Software+Engineering+student+at+UCB;APIs%2C+databases+and+clean+architecture" alt="typing"/>
 
@@ -86,17 +86,6 @@ My goal is to get good enough at Java and Spring to build things that hold up in
 
 ## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="28"/> Projects
 
-<div align="center">
-
-<a href="https://github.com/Gxstein/expense-tracker-java">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Gxstein&repo=expense-tracker-java&hide_border=true&bg_color=0D1117&title_color=FF6B00&icon_color=E63946&text_color=c9d1d9" alt="expense-tracker-java"/>
-</a>
-<a href="https://github.com/Gxstein/exercises-java">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Gxstein&repo=exercises-java&hide_border=true&bg_color=0D1117&title_color=FF6B00&icon_color=E63946&text_color=c9d1d9" alt="exercises-java"/>
-</a>
-
-</div>
-
 | Project | What it is | Stack |
 |---|---|---|
 | **[expense-tracker-java](https://github.com/Gxstein/expense-tracker-java)** | Personal expense tracker, growing from a console application into a Spring Boot REST API | `Java` `Spring Boot` `JPA` |
@@ -143,16 +132,12 @@ My goal is to get good enough at Java and Spring to build things that hold up in
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Gxstein&show_icons=true&hide_border=true&bg_color=0D1117&title_color=FF6B00&icon_color=E63946&text_color=c9d1d9" alt="stats"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gxstein&layout=compact&hide_border=true&langs_count=6&bg_color=0D1117&title_color=FF6B00&text_color=c9d1d9" alt="top langs"/>
-
-<br/><br/>
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gxstein&hide_border=true&background=0D1117&stroke=FF6B00&ring=FF6B00&fire=E63946&currStreakLabel=FF8C00&sideLabels=c9d1d9&dates=8b949e" alt="streak"/>
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Gxstein&bg_color=0D1117&color=FF8C00&line=E63946&point=FFFFFF&area=true&hide_border=true" width="100%" alt="activity graph"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Gxstein&show_icons=true&hide_border=true&bg_color=0D1117&title_color=FF6B00&icon_color=E63946&text_color=c9d1d9" alt="stats"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gxstein&layout=compact&hide_border=true&langs_count=6&bg_color=0D1117&title_color=FF6B00&text_color=c9d1d9" alt="top langs"/>
 
 </div>
 
