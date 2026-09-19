@@ -53,16 +53,18 @@ Based in Brasília, Federal District — Brazil.
 
 ## Projects
 
-### [expense-tracker-java](https://github.com/Gxstein/expense-tracker-java)
+#### [expense-tracker-java](https://github.com/Gxstein/expense-tracker-java) &nbsp;·&nbsp; <sub>in development</sub>
 
-Personal expense tracker. Started as a console application and is being rebuilt as a Spring Boot
-REST API — entities mapped with JPA, repository and service layers separated, persistence moving
+Personal expense tracker, evolving from a console application into a Spring Boot REST API.
+Entities mapped with JPA, service and repository layers kept separate, persistence moving
 from in-memory to PostgreSQL.
+<br/><sub>`Java` `Spring Boot` `Spring Data JPA` `Maven` `PostgreSQL`</sub>
 
-`Java` · `Spring Boot` · `Spring Data JPA` · `Maven`
+#### [exercises-java](https://github.com/Gxstein/exercises-java) &nbsp;·&nbsp; <sub>practice</sub>
 
-<sub>Java fundamentals and OOP practice live in
-<a href="https://github.com/Gxstein/exercises-java">exercises-java</a>.</sub>
+Object-oriented programming fundamentals — inheritance, polymorphism, encapsulation and
+collections, written while learning the language.
+<br/><sub>`Java`</sub>
 
 <br/>
 
@@ -70,20 +72,15 @@ from in-memory to PostgreSQL.
 
 ## Education
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <b>Software Engineering</b><br/>
-      Universidade Católica de Brasília — UCB<br/>
-      <sub>Bachelor's degree · in progress</sub>
-    </td>
-    <td width="50%" valign="top">
-      <b>Systems Analysis and Development</b><br/>
-      Technologist degree<br/>
-      <sub>Completed</sub>
-    </td>
-  </tr>
-</table>
+#### Software Engineering
+
+Universidade Católica de Brasília (UCB) — bachelor's degree
+<br/><sub>In progress</sub>
+
+#### Systems Analysis and Development
+
+Technologist degree
+<br/><sub>Completed</sub>
 
 <br/>
 
