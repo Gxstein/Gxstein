@@ -15,6 +15,10 @@
 </a>
 <img src="https://komarev.com/ghpvc/?username=Gxstein&style=for-the-badge&color=FF8C00&label=PROFILE+VIEWS" alt="views"/>
 
+<br/><br/>
+
+<img src="https://ghchart.rshah.org/FF6B00/Gxstein" width="92%" alt="contribution graph"/>
+
 </div>
 
 <br/>
