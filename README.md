@@ -37,13 +37,27 @@ Based in Brasília, Federal District — Brazil.
 
 <div align="center">
 
+<b>Core</b><br/>
 <img src="https://img.shields.io/badge/Java-C1121F?style=for-the-badge&logo=openjdk&logoColor=white"/>
 <img src="https://img.shields.io/badge/Spring_Boot-E63946?style=for-the-badge&logo=springboot&logoColor=white"/>
-<img src="https://img.shields.io/badge/Spring_Data_JPA-FF6B00?style=for-the-badge&logo=spring&logoColor=white"/>
-<img src="https://img.shields.io/badge/Hibernate-FF8C00?style=for-the-badge&logo=hibernate&logoColor=white"/>
-<img src="https://img.shields.io/badge/PostgreSQL-C1121F?style=for-the-badge&logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/Maven-E63946?style=for-the-badge&logo=apachemaven&logoColor=white"/>
-<img src="https://img.shields.io/badge/JUnit-FF6B00?style=for-the-badge&logo=junit5&logoColor=white"/>
+<img src="https://img.shields.io/badge/Spring_Security-FF6B00?style=for-the-badge&logo=springsecurity&logoColor=white"/>
+<img src="https://img.shields.io/badge/Spring_Data_JPA-FF8C00?style=for-the-badge&logo=spring&logoColor=white"/>
+<img src="https://img.shields.io/badge/Lombok-C1121F?style=for-the-badge"/>
+
+<br/><br/><b>Data</b><br/>
+<img src="https://img.shields.io/badge/PostgreSQL-E63946?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Hibernate-FF6B00?style=for-the-badge&logo=hibernate&logoColor=white"/>
+<img src="https://img.shields.io/badge/Flyway-FF8C00?style=for-the-badge&logo=flyway&logoColor=white"/>
+
+<br/><br/><b>Testing</b><br/>
+<img src="https://img.shields.io/badge/JUnit_5-C1121F?style=for-the-badge&logo=junit5&logoColor=white"/>
+<img src="https://img.shields.io/badge/Mockito-E63946?style=for-the-badge"/>
+
+<br/><br/><b>Build &amp; Delivery</b><br/>
+<img src="https://img.shields.io/badge/Maven-FF6B00?style=for-the-badge&logo=apachemaven&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-FF8C00?style=for-the-badge&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-C1121F?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/OpenAPI-E63946?style=for-the-badge&logo=swagger&logoColor=white"/>
 
 </div>
 
