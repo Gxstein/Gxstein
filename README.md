@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:C1121F,50:E63946,100:FF8C00&height=200&section=header&text=Marcio%20Souza&fontSize=52&fontColor=ffffff&animation=twinkling&fontAlignY=36&desc=Java%20and%20Spring%20Boot%20Developer&descAlignY=56&descSize=18" width="100%" alt="header"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FF6B00&center=true&vCenter=true&width=650&lines=Backend+Developer;Java+21+%2B+Spring+Boot+3;Software+Engineering+student+at+UCB;APIs%2C+databases+and+clean+architecture" alt="typing"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FF6B00&center=true&vCenter=true&width=650&lines=Backend+Developer;Java+%2B+Spring+Boot;Software+Engineering+student+at+UCB;APIs%2C+databases+and+clean+architecture" alt="typing"/>
 
 <br/>
 
@@ -27,7 +27,7 @@ Backend developer working with **Java and Spring Boot**. I spend my time on the 
 REST APIs, relational data modeling, object-oriented design and the parts of a system nobody
 sees but everybody depends on. I care about code that stays readable — simple beats clever.
 
-- **Main stack:** Java 21 + Spring Boot 3
+- **Main stack:** Java + Spring Boot
 - **Learning right now:** Spring Data JPA, Hibernate, PostgreSQL and testing with JUnit
 - **Based in:** Brasília, Federal District — Brazil
 
@@ -64,7 +64,7 @@ sees but everybody depends on. I care about code that stays readable — simple 
 | **[expense-tracker-java](https://github.com/Gxstein/expense-tracker-java)** | Personal expense tracker, growing from a console application into a Spring Boot REST API | `Java` `Spring Boot` `JPA` |
 | **[exercises-java](https://github.com/Gxstein/exercises-java)** | Object-oriented programming exercises — inheritance, polymorphism, encapsulation and collections | `Java` `OOP` |
 
-> **Next up:** a task management REST API with Java 21 + Spring Boot 3 + PostgreSQL — layered architecture, DTOs, validation and integration tests.
+> **Next up:** a task management REST API with Java, Spring Boot and PostgreSQL — layered architecture, DTOs, validation and integration tests.
 
 <br/>
 
