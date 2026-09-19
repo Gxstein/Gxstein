@@ -1,7 +1,7 @@
 <!-- ===================== HEADER ===================== -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:C1121F,50:E63946,100:FF8C00&height=200&section=header&text=Marcio%20Souza&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Java%20and%20Spring%20Boot%20Developer&descAlignY=56&descSize=18" width="100%" alt="header"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:C1121F,50:E63946,100:FF8C00&height=200&section=header&text=Marcio%20Souza&fontSize=52&fontColor=ffffff&animation=twinkling&fontAlignY=36&desc=Java%20and%20Spring%20Boot%20Developer&descAlignY=56&descSize=18" width="100%" alt="header"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FF6B00&center=true&vCenter=true&width=650&lines=Backend+Developer;Java+21+%2B+Spring+Boot+3;Software+Engineering+student+at+UCB;APIs%2C+databases+and+clean+architecture" alt="typing"/>
 
