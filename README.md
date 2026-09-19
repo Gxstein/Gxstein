@@ -70,8 +70,20 @@ from in-memory to PostgreSQL.
 
 ## Education
 
-**Software Engineering** — Universidade Católica de Brasília (UCB) · *in progress*
-**Systems Analysis and Development** — technologist degree · *completed*
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <b>Software Engineering</b><br/>
+      Universidade Católica de Brasília — UCB<br/>
+      <sub>Bachelor's degree · in progress</sub>
+    </td>
+    <td width="50%" valign="top">
+      <b>Systems Analysis and Development</b><br/>
+      Technologist degree<br/>
+      <sub>Completed</sub>
+    </td>
+  </tr>
+</table>
 
 <br/>
 
