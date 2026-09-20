@@ -15,7 +15,7 @@
 
 <br/><br/>
 
-<img src="https://ghchart.rshah.org/FF6B00/Gxstein" width="92%" alt="contribution graph"/>
+<img src="https://raw.githubusercontent.com/Gxstein/Gxstein/main/assets/contribution-graph.svg" width="92%" alt="contribution graph"/>
 
 </div>
 
