@@ -53,6 +53,12 @@ Based in Brasília, Federal District — Brazil.
 <img src="https://img.shields.io/badge/JUnit_5-C1121F?style=for-the-badge&logo=junit5&logoColor=white"/>
 <img src="https://img.shields.io/badge/Mockito-E63946?style=for-the-badge"/>
 
+<br/><br/><b>Cloud &amp; Infrastructure</b><br/>
+<img src="https://img.shields.io/badge/AWS-C1121F?style=for-the-badge&logo=amazonwebservices&logoColor=white"/>
+<img src="https://img.shields.io/badge/Terraform-E63946?style=for-the-badge&logo=terraform&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub_Actions-FF6B00?style=for-the-badge&logo=githubactions&logoColor=white"/>
+<img src="https://img.shields.io/badge/Linux-FF8C00?style=for-the-badge&logo=linux&logoColor=white"/>
+
 <br/><br/><b>Build &amp; Delivery</b><br/>
 <img src="https://img.shields.io/badge/Maven-FF6B00?style=for-the-badge&logo=apachemaven&logoColor=white"/>
 <img src="https://img.shields.io/badge/Docker-FF8C00?style=for-the-badge&logo=docker&logoColor=white"/>
@@ -66,6 +72,22 @@ Based in Brasília, Federal District — Brazil.
 ---
 
 ## Projects
+
+#### [aws-infra-terraform](https://github.com/Gxstein/aws-infra-terraform) &nbsp;·&nbsp; <sub>cloud infrastructure</sub>
+
+AWS environment provisioned entirely as code: a VPC across two availability zones with public
+and private subnets, a Dockerized API on EC2, PostgreSQL on RDS in a private subnet,
+least-privilege IAM, CloudWatch alarms and a monthly cost budget. CI/CD on GitHub Actions
+authenticates through OIDC, with no stored keys, and runs format, validation, a Checkov
+security scan and plan.
+<br/><sub>`Terraform` `AWS` `EC2` `VPC` `RDS` `IAM` `CloudWatch` `Docker` `GitHub Actions`</sub>
+
+#### [serverless-api-aws](https://github.com/Gxstein/serverless-api-aws) &nbsp;·&nbsp; <sub>serverless</sub>
+
+Pay-per-use REST API for personal expenses on AWS Lambda, API Gateway and DynamoDB, with a
+static frontend on a private S3 bucket served by CloudFront over HTTPS. Provisioned with AWS SAM,
+traced with X-Ray, monitored on a CloudWatch dashboard and load-tested with k6.
+<br/><sub>`AWS Lambda` `API Gateway` `DynamoDB` `S3` `CloudFront` `AWS SAM` `Python` `k6`</sub>
 
 #### [expense-tracker-java](https://github.com/Gxstein/expense-tracker-java) &nbsp;·&nbsp; <sub>in development</sub>
 
