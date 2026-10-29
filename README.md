@@ -15,11 +15,11 @@
 
 <br/><br/>
 
-<img src="https://raw.githubusercontent.com/Gxstein/Gxstein/main/assets/contribution-graph.svg" width="92%" alt="GitHub contributions — monochrome pixel grid"/>
+<img src="https://raw.githubusercontent.com/Gxstein/Gxstein/main/assets/contribution-graph.svg?v=2" width="92%" alt="GitHub contributions — monochrome pixel grid"/>
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=Gxstein&show_icons=true&hide_title=true&include_all_commits=true&count_private=true&bg_color=111111&title_color=FFFFFF&text_color=CCCCCC&icon_color=FFFFFF&border_color=555555" height="155" alt="GitHub commit statistics in grayscale"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Gxstein&show_icons=true&theme=graywhite&hide_border=true" height="155" alt="GitHub commit statistics in grayscale"/>
 
 </div>
 
