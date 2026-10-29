@@ -1,17 +1,10 @@
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:111111,50:333333,100:555555&height=190&section=header&text=Marcio%20Souza&font=Press%20Start%202P&fontSize=36&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20ENGINEERING%20%7C%20PYTHON%20%7C%20JAVA&descAlignY=68&descSize=15" width="100%" alt="Marcio Souza — AI Engineering, Python and Java"/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=12&pause=1400&color=FFFFFF&center=true&vCenter=true&width=850&height=45&lines=Building+with+Python%2C+ML+and+Java;Learning+to+ship+useful+AI+systems;Backend+foundations+with+Spring+Boot" alt="Focus: Python, ML, AI systems and Java backend"/>
+<img src="https://raw.githubusercontent.com/Gxstein/Gxstein/main/assets/profile-header-pixel.svg" width="100%" alt="Marcio Souza — AI Engineering, Python and Java, pixel-art banner"/>
 
 <br/>
 
-<a href="https://linkedin.com/in/marccio-souza">
-  <img src="https://img.shields.io/badge/LINKEDIN-111111?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-<a href="https://github.com/Gxstein">
-  <img src="https://img.shields.io/badge/GITHUB-555555?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>
+<a href="https://linkedin.com/in/marccio-souza"><img src="https://raw.githubusercontent.com/Gxstein/Gxstein/main/assets/linkedin-button-pixel.svg" alt="LinkedIn"/></a>
+&nbsp;
+<a href="https://github.com/Gxstein"><img src="https://raw.githubusercontent.com/Gxstein/Gxstein/main/assets/github-button-pixel.svg" alt="GitHub"/></a>
 
 <br/><br/>
 
