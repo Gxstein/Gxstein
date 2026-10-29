@@ -19,7 +19,6 @@
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=Gxstein&show_icons=true&theme=graywhite&hide_border=true" height="155" alt="GitHub commit statistics in grayscale"/>
 
 </div>
 
