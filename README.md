@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/Gxstein/Gxstein/main/assets/profile-header-pixel-v2.svg" width="100%" alt="Marcio Souza — AI Engineering, Python and Java, pixel-art banner"/>
+<p align="center"><img src="https://raw.githubusercontent.com/Gxstein/Gxstein/main/assets/profile-banner-animated.gif" width="100%" alt="Marcio Souza — AI Engineering, Python and Java, animated monochrome pixel-art banner with online status"/></p>
 
 <br/>
 
