@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:111111,50:555555,100:999999&height=190&section=header&text=Marcio%20Souza&font=Press%20Start%202P&fontSize=36&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20ENGINEERING%20%7C%20PYTHON%20%7C%20JAVA&descAlignY=68&descSize=15" width="100%" alt="Marcio Souza — AI Engineering, Python and Java"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:111111,50:333333,100:555555&height=190&section=header&text=Marcio%20Souza&font=Press%20Start%202P&fontSize=36&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20ENGINEERING%20%7C%20PYTHON%20%7C%20JAVA&descAlignY=68&descSize=15" width="100%" alt="Marcio Souza — AI Engineering, Python and Java"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=12&pause=1400&color=FFFFFF&center=true&vCenter=true&width=850&height=45&lines=Building+with+Python%2C+ML+and+Java;Learning+to+ship+useful+AI+systems;Backend+foundations+with+Spring+Boot" alt="Focus: Python, ML, AI systems and Java backend"/>
 
