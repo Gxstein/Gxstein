@@ -16,84 +16,37 @@
 
 <h2 align="center">About</h2>
 
-<p align="center">I’m a Software Engineering student in Brasília, building a path toward <strong>AI Engineering and Machine Learning</strong>. I use <strong>Python</strong> for data and AI projects, while <strong>Java and Spring Boot</strong> remain an important part of my backend development foundation.</p>
+<p align="center">I’m a Software Engineering student in Brasília, building a path toward <strong>AI Engineering and Machine Learning</strong>. I use <strong>Python</strong> for data and GenAI projects, with <strong>Java and Spring Boot</strong> as my backend foundation. I’m interested in making AI features useful, measurable, and maintainable.</p>
 
-<p align="center">I’m especially interested in the practical side of AI: preparing data, evaluating models, building clear APIs, and turning a model into a usable and maintainable application. I value fundamentals, explainable decisions, and software that is easy to understand.</p>
+<h2 align="center">Current Focus</h2>
 
-<h2 align="center">Current focus</h2>
-
-<p align="center">
-  Python for data analysis and machine learning<br/>
-  Data preparation, exploratory analysis, and model evaluation<br/>
-  Building AI features behind reliable APIs<br/>
-  Backend development with Java, Spring Boot, REST, and relational databases
-</p>
+<p align="center">Python for data analysis and machine learning<br/>Preparing data, evaluating model behavior, and building reliable GenAI applications</p>
 
 <h2 align="center">Technologies</h2>
 
 <table align="center">
-  <tr>
-    <td align="center" valign="top">
-      <strong>Python &amp; data</strong><br/><br/>
-      <img src="https://img.shields.io/badge/Python-333333?style=flat-square&amp;logo=python&amp;logoColor=white"/>
-      <img src="https://img.shields.io/badge/NumPy-444444?style=flat-square&amp;logo=numpy&amp;logoColor=white"/>
-      <img src="https://img.shields.io/badge/pandas-555555?style=flat-square&amp;logo=pandas&amp;logoColor=white"/>
-      <img src="https://img.shields.io/badge/scikit--learn-666666?style=flat-square&amp;logo=scikitlearn&amp;logoColor=white"/>
-      <img src="https://img.shields.io/badge/Jupyter-777777?style=flat-square&amp;logo=jupyter&amp;logoColor=white"/>
-    </td>
-    <td align="center" valign="top">
-      <strong>AI application development · learning</strong><br/><br/>
-      <img src="https://img.shields.io/badge/FastAPI-333333?style=flat-square&amp;logo=fastapi&amp;logoColor=white"/>
-      <img src="https://img.shields.io/badge/MLflow-444444?style=flat-square&amp;logo=mlflow&amp;logoColor=white"/>
-      <img src="https://img.shields.io/badge/Docker-555555?style=flat-square&amp;logo=docker&amp;logoColor=white"/>
-      <img src="https://img.shields.io/badge/LLM%20APIs-666666?style=flat-square&amp;logo=openai&amp;logoColor=white"/>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" valign="top">
-      <strong>Backend &amp; databases</strong><br/><br/>
-      <img src="https://img.shields.io/badge/Java-333333?style=flat-square&amp;logo=openjdk&amp;logoColor=white"/>
-      <img src="https://img.shields.io/badge/Spring%20Boot-444444?style=flat-square&amp;logo=springboot&amp;logoColor=white"/>
-      <img src="https://img.shields.io/badge/REST%20APIs-555555?style=flat-square&amp;logo=fastapi&amp;logoColor=white"/>
-      <img src="https://img.shields.io/badge/PostgreSQL-666666?style=flat-square&amp;logo=postgresql&amp;logoColor=white"/>
-      <img src="https://img.shields.io/badge/SQL-777777?style=flat-square&amp;logo=databricks&amp;logoColor=white"/>
-    </td>
-    <td align="center" valign="top">
-      <strong>Engineering tools</strong><br/><br/>
-      <img src="https://img.shields.io/badge/Git-333333?style=flat-square&amp;logo=git&amp;logoColor=white"/>
-      <img src="https://img.shields.io/badge/GitHub%20Actions-444444?style=flat-square&amp;logo=githubactions&amp;logoColor=white"/>
-      <img src="https://img.shields.io/badge/AWS-555555?style=flat-square&amp;logo=amazonaws&amp;logoColor=white"/>
-      <img src="https://img.shields.io/badge/Terraform-666666?style=flat-square&amp;logo=terraform&amp;logoColor=white"/>
-      <img src="https://img.shields.io/badge/Linux-777777?style=flat-square&amp;logo=linux&amp;logoColor=white"/>
-    </td>
-  </tr>
+  <tr><th>Python &amp; data</th><th>AI application development</th></tr>
+  <tr><td align="center">Python · NumPy · pandas · scikit-learn · Jupyter</td><td align="center">Prompt evaluation · MLflow · Docker · LLM APIs</td></tr>
+  <tr><th>Backend &amp; databases</th><th>Engineering tools</th></tr>
+  <tr><td align="center">Java · Spring Boot · REST APIs · PostgreSQL · SQL</td><td align="center">Git · GitHub Actions · AWS · Terraform · Linux</td></tr>
 </table>
 
-<h2 align="center">Selected projects</h2>
+<h2 align="center">Selected Projects</h2>
 
-<h3 align="center"><a href="https://github.com/Gxstein/riftwise-lol-item-recommender">Riftwise</a> · AI and Python · in development</h3>
-<p align="center">An explainable League of Legends item recommender. The project explores patch-aware item data and transparent matchup-based recommendations.<br/><br/>Python · recommendation systems · data modeling · explainability</p>
+<h3 align="center"><a href="https://github.com/Gxstein/mx-harness">Mx Harness</a> · Python · GenAI evaluation</h3>
+<p align="center">A local harness for repeatable GenAI and MCP evaluations. The repository includes the 10-day MVP roadmap, architecture diagrams, and a synthetic read-only MCP server. Currently in development.</p>
+<p align="center"><code>Python</code> · <code>LLM evaluation</code> · <code>MCP</code> · <code>CLI</code></p>
 
-<h3 align="center"><a href="https://github.com/Gxstein/serverless-api-aws">Serverless API on AWS</a></h3>
-<p align="center">A pay-per-use REST API for personal expenses, built with AWS Lambda, API Gateway, and DynamoDB, with infrastructure defined using AWS SAM.<br/><br/>Python · AWS Lambda · API Gateway · DynamoDB · AWS SAM</p>
+<h3 align="center">Riftwise · AI and Python · In development</h3>
+<p align="center">Exploring player and draft data to build explainable League of Legends team recommendations based on matchups.</p>
+<p align="center"><code>Python</code> · <code>Recommendation systems</code> · <code>Data modeling</code> · <code>Explainability</code></p>
 
-<h3 align="center"><a href="https://github.com/Gxstein/expense-tracker-java">Expense Tracker</a> · Java · in development</h3>
-<p align="center">A personal expense tracker evolving from a console application into a Spring Boot REST API, with separate service and repository layers.<br/><br/>Java · Spring Boot · Spring Data JPA · PostgreSQL</p>
-
-<h3 align="center"><a href="https://github.com/Gxstein/aws-infra-terraform">AWS Infrastructure with Terraform</a></h3>
-<p align="center">Infrastructure-as-code project covering a VPC, EC2, RDS, IAM, monitoring, and a GitHub Actions workflow.<br/><br/>Terraform · AWS · Docker · GitHub Actions</p>
+<h3 align="center"><a href="https://github.com/Gxstein/expense-tracker-java">Expense Tracker</a> · Java and Spring Boot</h3>
+<p align="center">A personal expense management API with JWT authentication, PostgreSQL persistence, and monthly summaries. The repository also includes a JDBC console application and earlier project versions.</p>
+<p align="center"><code>Java</code> · <code>Spring Boot</code> · <code>Spring Security</code> · <code>JPA</code> · <code>PostgreSQL</code></p>
 
 <h2 align="center">Education</h2>
 
-<p align="center"><strong>Software Engineering</strong> — Universidade Católica de Brasília (UCB), in progress<br/>
-<strong>Systems Analysis and Development</strong> — technologist degree, completed</p>
+<p align="center"><strong>Software Engineering</strong> — Universidade Católica de Brasília (UCB), in progress<br/><strong>Systems Analysis and Development</strong> — technologist degree, completed</p>
 
-<hr/>
-
-<p align="center">Open to opportunities in <strong>AI Engineering, Machine Learning, and backend development</strong>.</p>
-
-<p align="center">
-  <a href="https://linkedin.com/in/marccio-souza">
-    <img src="https://img.shields.io/badge/LET'S%20CONNECT-111111?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="Connect on LinkedIn"/>
-  </a>
-</p>
+<p align="center">Open to opportunities in AI Engineering, Machine Learning, and backend development.</p>
