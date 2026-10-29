@@ -89,6 +89,11 @@ static frontend on a private S3 bucket served by CloudFront over HTTPS. Provisio
 traced with X-Ray, monitored on a CloudWatch dashboard and load-tested with k6.
 <br/><sub>`AWS Lambda` `API Gateway` `DynamoDB` `S3` `CloudFront` `AWS SAM` `Python` `k6`</sub>
 
+#### [Riftwise](https://github.com/Gxstein/riftwise-lol-item-recommender) &nbsp;·&nbsp; <sub>AI project · in development</sub>
+
+Python project for explainable item recommendations in League of Legends. The initial version focuses on patch-aware item data and transparent matchup rules.
+<br/><sub>`Python` `Explainable recommendations`</sub>
+
 #### [expense-tracker-java](https://github.com/Gxstein/expense-tracker-java) &nbsp;·&nbsp; <sub>in development</sub>
 
 Personal expense tracker, evolving from a console application into a Spring Boot REST API.
@@ -96,11 +101,6 @@ Entities mapped with JPA, service and repository layers kept separate, persisten
 from in-memory to PostgreSQL.
 <br/><sub>`Java` `Spring Boot` `Spring Data JPA` `Maven` `PostgreSQL`</sub>
 
-#### [exercises-java](https://github.com/Gxstein/exercises-java) &nbsp;·&nbsp; <sub>practice</sub>
-
-Object-oriented programming fundamentals — inheritance, polymorphism, encapsulation and
-collections, written while learning the language.
-<br/><sub>`Java`</sub>
 
 <br/>
 
