@@ -71,8 +71,8 @@
 
 <h2 align="center">Selected projects</h2>
 
-<h3 align="center"><a href="https://github.com/Gxstein/mx-harness">MX</a> · Python · local personal harness · in planning</h3>
-<p align="center">A personal local harness project. Its repository is for documenting the scope, diagrams, and a 10-day development plan; implementation will be built locally.<br/><br/>Python · Local tooling · In planning</p>
+<h3 align="center"><a href="https://github.com/Gxstein/cloe-agent">Cloe Agent</a> · Python · personal assistant · in planning</h3>
+<p align="center">A local conversational assistant designed to handle personal tasks through tools. The initial scope includes creating folders and preparing emails and messages for review; sending requires explicit confirmation.<br/><br/>Python · Chatbot · Local tools · In planning</p>
 
 <h3 align="center"><a href="https://github.com/Gxstein/riftwise-lol-item-recommender">Riftwise</a> · AI and Python · in development</h3>
 <p align="center">An explainable League of Legends item recommender. The project explores patch-aware item data and transparent matchup-based recommendations.<br/><br/>Python · recommendation systems · data modeling · explainability</p>
