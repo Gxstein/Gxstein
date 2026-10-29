@@ -1,11 +1,11 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Gxstein/Gxstein/main/assets/profile-header-pixel-v2.svg" width="100%" alt="Marcio Souza — AI Engineering, Python and Java, pixel-art banner"/>
+  <img src="https://raw.githubusercontent.com/Gxstein/Gxstein/main/assets/profile-header-pixel-v3.svg" width="100%" alt="Marcio Souza — AI Engineering, Python and Java, pixel-art banner"/>
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/marccio-souza"><img src="https://raw.githubusercontent.com/Gxstein/Gxstein/main/assets/linkedin-button-pixel.svg" alt="LinkedIn"/></a>
+  <a href="https://linkedin.com/in/marccio-souza"><img src="https://raw.githubusercontent.com/Gxstein/Gxstein/main/assets/linkedin-button-pixel-v2.svg" alt="LinkedIn"/></a>
   &nbsp;&nbsp;
-  <a href="https://github.com/Gxstein"><img src="https://raw.githubusercontent.com/Gxstein/Gxstein/main/assets/github-button-pixel.svg" alt="GitHub"/></a>
+  <a href="https://github.com/Gxstein"><img src="https://raw.githubusercontent.com/Gxstein/Gxstein/main/assets/github-button-pixel-v2.svg" alt="GitHub"/></a>
 </p>
 
 <p align="center">
