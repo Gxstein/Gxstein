@@ -7,6 +7,8 @@
 <a href="https://linkedin.com/in/marccio-souza"><img src="https://raw.githubusercontent.com/Gxstein/Gxstein/main/assets/linkedin-button.svg" alt="Connect on LinkedIn" height="40"/></a>
 <a href="https://github.com/Gxstein"><img src="https://raw.githubusercontent.com/Gxstein/Gxstein/main/assets/github-button.svg" alt="View GitHub repositories" height="40"/></a>
 
+<img src="https://raw.githubusercontent.com/Gxstein/Gxstein/main/assets/contribution-graph.svg?v=3" width="100%" alt="GitHub contributions in a monochrome grid"/>
+
 ## About
 
 I build software with Python and Java, with a current focus on backend engineering and applied AI. My public work includes a Spring Boot expense API, AWS projects, and early-stage Python prototypes. I value clear interfaces, practical testing, and honest documentation of what is implemented.
