@@ -9,24 +9,24 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Gxstein/Gxstein/main/assets/contribution-graph.svg?v=2" width="100%" alt="GitHub contributions — monochrome pixel grid"/>
+  <img src="https://raw.githubusercontent.com/Gxstein/Gxstein/main/assets/contribution-graph.svg?v=3" width="100%" alt="GitHub contributions — monochrome pixel grid"/>
 </p>
 
 ---
 
 <h2 align="center">About</h2>
 
-<p align="center">I’m a Software Engineering student in Brasília, building a path toward <strong>AI Engineering and Machine Learning</strong>. I use <strong>Python</strong> for data and AI projects, while <strong>Java and Spring Boot</strong> remain an important part of my backend development foundation.</p>
+<p align="center">I build projects with <strong>Python</strong> and <strong>Java</strong>, with a current focus on backend engineering and a growing focus on applied AI. My public work includes a Spring Boot API, AWS infrastructure projects, and early-stage Python prototypes.</p>
 
-<p align="center">I’m especially interested in the practical side of AI: preparing data, evaluating models, building clear APIs, and turning a model into a usable and maintainable application. I value fundamentals, explainable decisions, and software that is easy to understand.</p>
+<p align="center">I’m developing practical experience in AI engineering while strengthening the fundamentals that make software reliable: clear APIs, data handling, tests, and explainable behavior.</p>
 
 <h2 align="center">Current focus</h2>
 
 <p align="center">
-  Python for data analysis and machine learning<br/>
-  Data preparation, exploratory analysis, and model evaluation<br/>
-  Building AI features behind reliable APIs<br/>
-  Backend development with Java, Spring Boot, REST, and relational databases
+  Python projects and AI engineering fundamentals<br/>
+  Backend APIs with Java, Spring Boot, and PostgreSQL<br/>
+  AWS infrastructure, containers, and CI/CD<br/>
+  Building project evidence through tests, demos, and documentation
 </p>
 
 <h2 align="center">Technologies</h2>
@@ -34,51 +34,46 @@
 <table align="center">
   <tr>
     <td align="center" valign="top">
-      <strong>Python &amp; data</strong><br/><br/>
+      <strong>Demonstrated in public projects</strong><br/><br/>
       <img src="https://img.shields.io/badge/Python-333333?style=flat-square&amp;logo=python&amp;logoColor=white"/>
-      <img src="https://img.shields.io/badge/NumPy-444444?style=flat-square&amp;logo=numpy&amp;logoColor=white"/>
-      <img src="https://img.shields.io/badge/pandas-555555?style=flat-square&amp;logo=pandas&amp;logoColor=white"/>
-      <img src="https://img.shields.io/badge/scikit--learn-666666?style=flat-square&amp;logo=scikitlearn&amp;logoColor=white"/>
-      <img src="https://img.shields.io/badge/Jupyter-777777?style=flat-square&amp;logo=jupyter&amp;logoColor=white"/>
+      <img src="https://img.shields.io/badge/Java-444444?style=flat-square&amp;logo=openjdk&amp;logoColor=white"/>
+      <img src="https://img.shields.io/badge/Spring%20Boot-555555?style=flat-square&amp;logo=springboot&amp;logoColor=white"/>
+      <img src="https://img.shields.io/badge/PostgreSQL-666666?style=flat-square&amp;logo=postgresql&amp;logoColor=white"/>
     </td>
     <td align="center" valign="top">
-      <strong>AI application development · learning</strong><br/><br/>
-      <img src="https://img.shields.io/badge/FastAPI-333333?style=flat-square&amp;logo=fastapi&amp;logoColor=white"/>
-      <img src="https://img.shields.io/badge/MLflow-444444?style=flat-square&amp;logo=mlflow&amp;logoColor=white"/>
-      <img src="https://img.shields.io/badge/Docker-555555?style=flat-square&amp;logo=docker&amp;logoColor=white"/>
-      <img src="https://img.shields.io/badge/LLM%20APIs-666666?style=flat-square&amp;logo=openai&amp;logoColor=white"/>
+      <strong>Current learning focus</strong><br/><br/>
+      <img src="https://img.shields.io/badge/Applied%20AI-learning-777777?style=flat-square"/>
+      <img src="https://img.shields.io/badge/Machine%20Learning-learning-888888?style=flat-square"/>
+      <img src="https://img.shields.io/badge/Model%20Evaluation-learning-999999?style=flat-square"/>
     </td>
   </tr>
   <tr>
     <td align="center" valign="top">
-      <strong>Backend &amp; databases</strong><br/><br/>
-      <img src="https://img.shields.io/badge/Java-333333?style=flat-square&amp;logo=openjdk&amp;logoColor=white"/>
-      <img src="https://img.shields.io/badge/Spring%20Boot-444444?style=flat-square&amp;logo=springboot&amp;logoColor=white"/>
-      <img src="https://img.shields.io/badge/REST%20APIs-555555?style=flat-square&amp;logo=fastapi&amp;logoColor=white"/>
-      <img src="https://img.shields.io/badge/PostgreSQL-666666?style=flat-square&amp;logo=postgresql&amp;logoColor=white"/>
-      <img src="https://img.shields.io/badge/SQL-777777?style=flat-square&amp;logo=databricks&amp;logoColor=white"/>
+      <strong>Backend &amp; delivery</strong><br/><br/>
+      <img src="https://img.shields.io/badge/REST%20APIs-333333?style=flat-square"/>
+      <img src="https://img.shields.io/badge/Docker-444444?style=flat-square&amp;logo=docker&amp;logoColor=white"/>
+      <img src="https://img.shields.io/badge/AWS-555555?style=flat-square&amp;logo=amazonaws&amp;logoColor=white"/>
+      <img src="https://img.shields.io/badge/Terraform-666666?style=flat-square&amp;logo=terraform&amp;logoColor=white"/>
+      <img src="https://img.shields.io/badge/GitHub%20Actions-777777?style=flat-square&amp;logo=githubactions&amp;logoColor=white"/>
     </td>
     <td align="center" valign="top">
       <strong>Engineering tools</strong><br/><br/>
       <img src="https://img.shields.io/badge/Git-333333?style=flat-square&amp;logo=git&amp;logoColor=white"/>
-      <img src="https://img.shields.io/badge/GitHub%20Actions-444444?style=flat-square&amp;logo=githubactions&amp;logoColor=white"/>
-      <img src="https://img.shields.io/badge/AWS-555555?style=flat-square&amp;logo=amazonaws&amp;logoColor=white"/>
-      <img src="https://img.shields.io/badge/Terraform-666666?style=flat-square&amp;logo=terraform&amp;logoColor=white"/>
-      <img src="https://img.shields.io/badge/Linux-777777?style=flat-square&amp;logo=linux&amp;logoColor=white"/>
+      <img src="https://img.shields.io/badge/Linux-444444?style=flat-square&amp;logo=linux&amp;logoColor=white"/>
     </td>
   </tr>
 </table>
 
 <h2 align="center">Selected projects</h2>
 
-<h3 align="center"><a href="https://github.com/Gxstein/cloe-agent">Cloe Agent</a> · Python · personal assistant · in planning</h3>
-<p align="center">A local conversational assistant designed to handle personal tasks through tools. The initial scope includes creating folders and preparing emails and messages for review; sending requires explicit confirmation.<br/><br/>Python · Chatbot · Local tools · In planning</p>
+<h3 align="center"><a href="https://github.com/Gxstein/cloe-agent">Cloe Agent</a> · Python · prototype</h3>
+<p align="center">The repository currently contains an offline case runner and a read-only MCP example. The conversational interface and personal task integrations remain planned.<br/><br/>Python · CLI prototype · MCP example</p>
 
-<h3 align="center"><a href="https://github.com/Gxstein/riftwise-lol-item-recommender">Riftwise</a> · AI and Python · in development</h3>
-<p align="center">An explainable League of Legends item recommender. The project explores patch-aware item data and transparent matchup-based recommendations.<br/><br/>Python · recommendation systems · data modeling · explainability</p>
+<h3 align="center"><a href="https://github.com/Gxstein/riftwise-lol-item-recommender">Riftwise</a> · Python · early development</h3>
+<p align="center">An early-stage project for explainable, patch-aware League of Legends item recommendations. The catalog and recommender engine are not implemented yet.<br/><br/>Python · recommendation systems · explainability</p>
 
-<h3 align="center"><a href="https://github.com/Gxstein/expense-tracker-java">Expense Tracker</a> · Java · in development</h3>
-<p align="center">A personal expense tracker evolving from a console application into a Spring Boot REST API, with separate service and repository layers.<br/><br/>Java · Spring Boot · Spring Data JPA · PostgreSQL</p>
+<h3 align="center"><a href="https://github.com/Gxstein/expense-tracker-java">Expense Tracker</a> · Java · API prototype</h3>
+<p align="center">A personal expense API with account authentication, owner-scoped records, monthly summaries, PostgreSQL persistence, and a Docker Compose setup.<br/><br/>Java · Spring Boot · Spring Security · PostgreSQL</p>
 
 <h2 align="center">Education</h2>
 
@@ -87,7 +82,7 @@
 
 <hr/>
 
-<p align="center">Open to opportunities in <strong>AI Engineering, Machine Learning, and backend development</strong>.</p>
+<p align="center">Open to opportunities in <strong>Python development, AI engineering, and backend development</strong>.</p>
 
 <p align="center">
   <a href="https://linkedin.com/in/marccio-souza">
