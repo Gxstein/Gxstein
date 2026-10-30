@@ -35,21 +35,21 @@
   <tr>
     <td align="center" valign="top">
       <strong>Demonstrated in public projects</strong><br/><br/>
-      <p><kbd>Python</kbd> <kbd>Java</kbd> <kbd>Spring Boot</kbd> <kbd>PostgreSQL</kbd></p>
+      <img src="https://raw.githubusercontent.com/Gxstein/Gxstein/main/assets/technology-projects.svg" width="100%" height="60" alt="Python, Java, Spring Boot, PostgreSQL"/>
     </td>
     <td align="center" valign="top">
       <strong>Current learning focus</strong><br/><br/>
-      <p><kbd>Applied AI</kbd> <kbd>Machine Learning</kbd> <kbd>Model Evaluation</kbd></p>
+      <img src="https://raw.githubusercontent.com/Gxstein/Gxstein/main/assets/technology-learning.svg" width="100%" height="60" alt="Applied AI, Machine Learning, Model Evaluation"/>
     </td>
   </tr>
   <tr>
     <td align="center" valign="top">
       <strong>Backend &amp; delivery</strong><br/><br/>
-      <p><kbd>REST APIs</kbd> <kbd>Docker</kbd> <kbd>AWS</kbd> <kbd>Terraform</kbd> <kbd>GitHub Actions</kbd></p>
+      <img src="https://raw.githubusercontent.com/Gxstein/Gxstein/main/assets/technology-delivery.svg" width="100%" height="60" alt="REST APIs, Docker, AWS, Terraform, GitHub Actions"/>
     </td>
     <td align="center" valign="top">
       <strong>Engineering tools</strong><br/><br/>
-      <p><kbd>Git</kbd> <kbd>Linux</kbd></p>
+      <img src="https://raw.githubusercontent.com/Gxstein/Gxstein/main/assets/technology-tools.svg" width="100%" height="60" alt="Git and Linux"/>
     </td>
   </tr>
 </table>
