@@ -84,8 +84,6 @@
 
 <p align="center">Open to opportunities in <strong>Python development, AI engineering, and backend development</strong>.</p>
 
-<p align="center">
-  <a href="https://linkedin.com/in/marccio-souza">
-    <img src="assets/linkedin-connect-black.svg" alt="Connect on LinkedIn"/>
-  </a>
-</p>
+<div align="center">
+  <a href="https://linkedin.com/in/marccio-souza"><img src="assets/linkedin-connect-black.svg" alt="Connect on LinkedIn"/></a>
+</div>
