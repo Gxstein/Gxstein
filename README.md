@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/marccio-souza"><img src="https://raw.githubusercontent.com/Gxstein/Gxstein/main/assets/linkedin-button-pixel-v2.svg" alt="LinkedIn"/></a>
+  <a href="https://linkedin.com/in/marccio-souza"><img src="assets/linkedin-button-pixel-v2.svg" alt="Connect on LinkedIn"/></a>
   &nbsp;&nbsp;
   <a href="https://github.com/Gxstein"><img src="https://raw.githubusercontent.com/Gxstein/Gxstein/main/assets/github-button-pixel-v2.svg" alt="GitHub"/></a>
 </p>
