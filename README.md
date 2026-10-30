@@ -86,6 +86,6 @@
 
 <p align="center">
   <a href="https://linkedin.com/in/marccio-souza">
-    <img src="https://raw.githubusercontent.com/Gxstein/Gxstein/main/assets/tech-stack/.svg" alt="Connect on LinkedIn"/>
+    <img src="assets/linkedin-button-pixel-v2.svg" alt="Connect on LinkedIn"/>
   </a>
 </p>
