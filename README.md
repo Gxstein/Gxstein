@@ -35,31 +35,21 @@
   <tr>
     <td align="center" valign="top">
       <strong>Demonstrated in public projects</strong><br/><br/>
-      <img src="https://img.shields.io/badge/Python-333333?style=flat-square&amp;logo=python&amp;logoColor=white"/>
-      <img src="https://img.shields.io/badge/Java-444444?style=flat-square&amp;logo=openjdk&amp;logoColor=white"/>
-      <img src="https://img.shields.io/badge/Spring%20Boot-555555?style=flat-square&amp;logo=springboot&amp;logoColor=white"/>
-      <img src="https://img.shields.io/badge/PostgreSQL-666666?style=flat-square&amp;logo=postgresql&amp;logoColor=white"/>
+      <p><kbd>Python</kbd> <kbd>Java</kbd> <kbd>Spring Boot</kbd> <kbd>PostgreSQL</kbd></p>
     </td>
     <td align="center" valign="top">
       <strong>Current learning focus</strong><br/><br/>
-      <img src="https://img.shields.io/badge/Applied%20AI-learning-777777?style=flat-square"/>
-      <img src="https://img.shields.io/badge/Machine%20Learning-learning-888888?style=flat-square"/>
-      <img src="https://img.shields.io/badge/Model%20Evaluation-learning-999999?style=flat-square"/>
+      <p><kbd>Applied AI</kbd> <kbd>Machine Learning</kbd> <kbd>Model Evaluation</kbd></p>
     </td>
   </tr>
   <tr>
     <td align="center" valign="top">
       <strong>Backend &amp; delivery</strong><br/><br/>
-      <img src="https://img.shields.io/badge/REST%20APIs-333333?style=flat-square"/>
-      <img src="https://img.shields.io/badge/Docker-444444?style=flat-square&amp;logo=docker&amp;logoColor=white"/>
-      <img src="https://img.shields.io/badge/AWS-555555?style=flat-square&amp;logo=amazonaws&amp;logoColor=white"/>
-      <img src="https://img.shields.io/badge/Terraform-666666?style=flat-square&amp;logo=terraform&amp;logoColor=white"/>
-      <img src="https://img.shields.io/badge/GitHub%20Actions-777777?style=flat-square&amp;logo=githubactions&amp;logoColor=white"/>
+      <p><kbd>REST APIs</kbd> <kbd>Docker</kbd> <kbd>AWS</kbd> <kbd>Terraform</kbd> <kbd>GitHub Actions</kbd></p>
     </td>
     <td align="center" valign="top">
       <strong>Engineering tools</strong><br/><br/>
-      <img src="https://img.shields.io/badge/Git-333333?style=flat-square&amp;logo=git&amp;logoColor=white"/>
-      <img src="https://img.shields.io/badge/Linux-444444?style=flat-square&amp;logo=linux&amp;logoColor=white"/>
+      <p><kbd>Git</kbd> <kbd>Linux</kbd></p>
     </td>
   </tr>
 </table>
