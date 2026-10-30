@@ -35,21 +35,31 @@
   <tr>
     <td align="center" valign="top">
       <strong>Demonstrated in public projects</strong><br/><br/>
-      <img src="https://raw.githubusercontent.com/Gxstein/Gxstein/main/assets/technology-projects.svg" width="100%" height="60" alt="Python, Java, Spring Boot, PostgreSQL"/>
+      <img src="https://img.shields.io/badge/Python-111111?style=flat-square&amp;logo=python&amp;logoColor=white" alt="Python"/>
+      <img src="https://img.shields.io/badge/Java-333333?style=flat-square&amp;logo=openjdk&amp;logoColor=white" alt="Java"/>
+      <img src="https://img.shields.io/badge/Spring%20Boot-555555?style=flat-square&amp;logo=springboot&amp;logoColor=white" alt="Spring Boot"/>
+      <img src="https://img.shields.io/badge/PostgreSQL-777777?style=flat-square&amp;logo=postgresql&amp;logoColor=white" alt="PostgreSQL"/>
     </td>
     <td align="center" valign="top">
       <strong>Current learning focus</strong><br/><br/>
-      <img src="https://raw.githubusercontent.com/Gxstein/Gxstein/main/assets/technology-learning.svg" width="100%" height="60" alt="Applied AI, Machine Learning, Model Evaluation"/>
+      <img src="https://img.shields.io/badge/Applied%20AI-111111?style=flat-square&amp;logoColor=white" alt="Applied AI"/>
+      <img src="https://img.shields.io/badge/Machine%20Learning-333333?style=flat-square&amp;logo=scikitlearn&amp;logoColor=white" alt="Machine Learning"/>
+      <img src="https://img.shields.io/badge/Model%20Evaluation-555555?style=flat-square&amp;logoColor=white" alt="Model Evaluation"/>
     </td>
   </tr>
   <tr>
     <td align="center" valign="top">
       <strong>Backend &amp; delivery</strong><br/><br/>
-      <img src="https://raw.githubusercontent.com/Gxstein/Gxstein/main/assets/technology-delivery.svg" width="100%" height="60" alt="REST APIs, Docker, AWS, Terraform, GitHub Actions"/>
+      <img src="https://img.shields.io/badge/REST%20APIs-111111?style=flat-square&amp;logo=fastapi&amp;logoColor=white" alt="REST APIs"/>
+      <img src="https://img.shields.io/badge/Docker-333333?style=flat-square&amp;logo=docker&amp;logoColor=white" alt="Docker"/>
+      <img src="https://img.shields.io/badge/AWS-555555?style=flat-square&amp;logo=amazonaws&amp;logoColor=white" alt="AWS"/>
+      <img src="https://img.shields.io/badge/Terraform-777777?style=flat-square&amp;logo=terraform&amp;logoColor=white" alt="Terraform"/>
+      <img src="https://img.shields.io/badge/GitHub%20Actions-444444?style=flat-square&amp;logo=githubactions&amp;logoColor=white" alt="GitHub Actions"/>
     </td>
     <td align="center" valign="top">
       <strong>Engineering tools</strong><br/><br/>
-      <img src="https://raw.githubusercontent.com/Gxstein/Gxstein/main/assets/technology-tools.svg" width="100%" height="60" alt="Git and Linux"/>
+      <img src="https://img.shields.io/badge/Git-333333?style=flat-square&amp;logo=git&amp;logoColor=white" alt="Git"/>
+      <img src="https://img.shields.io/badge/Linux-555555?style=flat-square&amp;logo=linux&amp;logoColor=white" alt="Linux"/>
     </td>
   </tr>
 </table>
