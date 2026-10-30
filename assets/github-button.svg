@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="158" height="40" viewBox="0 0 158 40" role="img" aria-labelledby="title">
+  <title id="title">View GitHub repositories</title>
+  <rect x="0.5" y="0.5" width="157" height="39" rx="8" fill="#24292F" stroke="#57606A"/>
+  <circle cx="22" cy="20" r="10" fill="#fff"/>
+  <text x="22" y="24" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" font-weight="700" fill="#24292F">GH</text>
+  <text x="40" y="25" font-family="Arial, sans-serif" font-size="14" font-weight="600" fill="#fff">View repositories</text>
+</svg>
